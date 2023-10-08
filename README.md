@@ -1,2 +1,2 @@
-1. Horizontal & Vertical Menu
+Horizontal & Vertical Menu
 https://rahulthakkar12345.github.io/CSS1-MiniProject/
